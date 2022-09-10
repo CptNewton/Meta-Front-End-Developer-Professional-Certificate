@@ -6,10 +6,10 @@
 </html>
 ```
 
-- [x] <body>
-- [ ] <div>
-- [x] <head>
-- [ ] <p>
+- [x] `<body>`
+- [ ] `<div>`
+- [x] `<head>`
+- [ ] `<p>`
 
 #### 2. When using the anchor tag `<a>`, which attribute determines where the hyperlink links to?
 
@@ -19,9 +19,9 @@
 
 #### 3. When adding an image to a web page, which of the following is the correct HTML tag?
 
-- [ ] <link>
-- [x] <img>
-- [ ] <image>
+- [ ] `<link>`
+- [x] `<img>`
+- [ ] `<image>`
 
 #### 4. How many columns exist on the following HTML table?
 
