@@ -45,5 +45,5 @@
 ### 7. A web application is more \_\_\_ compared to a website.
 
 - [ ] Informative
-- [x] Interactive
+- [x] Interactive <br>
       Correct – Web applications are interactive, for example, using a web app to find local restaurants.

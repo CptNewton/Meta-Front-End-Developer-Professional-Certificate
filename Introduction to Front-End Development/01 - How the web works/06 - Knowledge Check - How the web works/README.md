@@ -31,7 +31,7 @@
 - [ ] Receive web pages and display them in the web browser.
 - [ ] Request content from a web browser and receive the response.
 
-### 6. A website can consist of multiple web pages linked together.
+### 6. True or False. A website can consist of multiple web pages linked together.
 
 - [x] True <br>
       That's correct! A website consists of several web pages linked together.
