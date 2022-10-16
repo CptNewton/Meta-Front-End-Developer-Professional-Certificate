@@ -1,4 +1,4 @@
-#### 1. Which two elements should be added to the html element to make the structure of an HTML document?
+### 1. Which two elements should be added to the html element to make the structure of an HTML document?
 
 ```
 <!DOCTYPE html>
@@ -13,21 +13,21 @@
       That's correct! The head element is added to the html element.
 - [ ] `<p>`
 
-#### 2. When using the anchor tag `<a>`, which attribute determines where the hyperlink links to?
+### 2. When using the anchor tag `<a>`, which attribute determines where the hyperlink links to?
 
 - [ ] src
 - [x] href <br>
       That's correct! The href attribute specifies where the hyperlink links to. `<a href="index.html">Link</a>`
 - [ ] link
 
-#### 3. When adding an image to a web page, which of the following is the correct HTML tag?
+### 3. When adding an image to a web page, which of the following is the correct HTML tag?
 
 - [ ] `<link>`
 - [x] `<img>` <br>
       That's correct. The img tag adds an image to a web page. `<img src="image.jpg">`
 - [ ] `<image>`
 
-#### 4. How many columns exist on the following HTML table?
+### 4. How many columns exist on the following HTML table?
 
 ```
 <table>
@@ -51,7 +51,7 @@
       That's correct. There are 2 columns and 3 rows in this HTML table.
 - [ ] 3 columns
 
-#### 5. When an HTML form is submitted to a web server, which HTTP methods can be used? Select all that apply.
+### 5. When an HTML form is submitted to a web server, which HTTP methods can be used? Select all that apply.
 
 - [ ] PUT
 - [x] POST <br>
@@ -60,7 +60,7 @@
 - [x] GET <br>
       That's correct. A GET method can be used for the form submission. `<form method="get">`
 
-#### 6. For the following HTML code, which CSS selectors can be used to select the h1 element? Select all that apply.
+### 6. For the following HTML code, which CSS selectors can be used to select the h1 element? Select all that apply.
 
 ```
 <h1 id="title">Welcome</h1>
@@ -76,14 +76,12 @@
 - [ ] Class Selector
 - [ ] Descendant Selector
 
-#### 7. In the following CSS code, what is the `color: purple;` part known as?
+### 7. In the following CSS code, what is the `color: purple;` part known as?
 
 ```
-
 h1 {
 color: purple;
 }
-
 ```
 
 - [x] CSS Property <br>
@@ -92,7 +90,7 @@ color: purple;
 - [ ] CSS Selector
 - [ ] CSS Attribute
 
-#### 8. Based on the following CSS, what will be the margin-box width for `div` elements?
+### 8. Based on the following CSS, what will be the margin-box width for `div` elements?
 
 ```
 div {
@@ -110,13 +108,13 @@ div {
       That's correct. The margin-box width = content width + padding width + border width + margin width. In this scenario, the margin-box width is 30 pixels.
 - [ ] 40 pixels
 
-#### 9. True or false. In document flow, block-level elements always start on a new line.
+### 9. True or false. In document flow, block-level elements always start on a new line.
 
 - [x] True <br>
       That's correct. Block-level elements always start on a new line.
 - [ ] False
 
-#### 10. Based on the following CSS code, how will the text be aligned for the `p` element?
+### 10. Based on the following CSS code, how will the text be aligned for the `p` element?
 
 ```
 p {
