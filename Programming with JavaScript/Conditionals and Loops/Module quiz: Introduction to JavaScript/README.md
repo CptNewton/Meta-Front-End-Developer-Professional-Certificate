@@ -11,7 +11,7 @@
       That's correct! // is used for inline comments.
 - [ ] `## Comment 3`
 - [x] `/* Comment 4 */` <br>
-      That's correct! /_ and _/ are define the beginning and end of multi-line comments.
+      That's correct! They define the beginning and end of multi-line comments.
 
 #### 3. Which of the following are valid data types in JavaScript? Select all that apply.
 
@@ -26,18 +26,18 @@
 
 #### 4. Which of the following is the logical AND operator in JavaScript?
 
-- [ ] &
-- [x] && <br>
+- [ ] `&`
+- [x] `&&` <br>
       That's correct! && is the logical AND operator used for condition checks.
-- [ ] ||
-- [ ] |\
+- [ ] `||`
+- [ ] `|\`
 
 #### 5. Which of the following is the assignment operator in JavaScript?
 
-- [x] = <br>
+- [x] `=` <br>
       That's correct! The = symbol is used to assign to variables in JavaScript.
-- [ ] ==
-- [ ] ===
+- [ ] `==`
+- [ ] `===`
 
 #### 6. How many times will the following code print the word 'Hello'?
 
