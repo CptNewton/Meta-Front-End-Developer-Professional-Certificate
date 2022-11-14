@@ -1,5 +1,17 @@
-// Use the completed code from the previous task, but convert the conditionals to a switch statement. When you code the solution, the output in the console should remain exactly the same as in the previous question.
+// Task 1
+for (var i = 1; i <= 10; i++) {
+  if (i == 1) {
+    console.log("Gold medal");
+  } else if (i == 2) {
+    console.log("Silver medal");
+  } else if (i == 3) {
+    console.log("Bronze medal");
+  } else {
+    console.log(i);
+  }
+}
 
+// Task 2
 for (var i = 1; i <= 10; i++) {
   switch (i) {
     case 1:
