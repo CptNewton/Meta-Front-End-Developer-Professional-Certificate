@@ -1,6 +1,6 @@
 # Exercise: Declaring variables
 
-## Tasks
+## Tasks:
 
 1. Declare a new variable named `petDog` and give it the name `Rex`.
 

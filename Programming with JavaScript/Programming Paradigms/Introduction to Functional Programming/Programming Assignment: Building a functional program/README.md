@@ -122,7 +122,7 @@ Inside the function declaration's body, code the following:
 
 1. Code another function, named `styleAndCelebrate()`.  
    The function declaration's body should consist of two function invocations:
-   `consoleStyler(color, background, fontSize, txt); celebrateStyler(reason);`
+   ` consoleStyler(color, background, fontSize, txt); celebrateStyler(reason); `
 
 2. Next, invoke the new function, using the following arguments:
 

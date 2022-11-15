@@ -1,6 +1,6 @@
 # Exercise: Working with conditionals and loops
 
-## Task 1
+## Task 1:
 
 In this exercise, you will create the code for a `for loop`, using the counter variable named `i` starting from `1`.
 To make the counter increment by 1 on each loop, you will use `i++`.
@@ -18,7 +18,7 @@ Inside the loop, write an if-else statement, which will check the following cond
 
 ---
 
-## Task 2
+## Task 2:
 
 Use the completed code from the previous task, but convert the conditionals to a switch statement.
 When you code the solution, the output in the console should remain exactly the same as in the previous question.

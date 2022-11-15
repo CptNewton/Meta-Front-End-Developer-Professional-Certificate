@@ -1,4 +1,4 @@
-// Task 1: Code a Person class
+// Task 1
 class Person {
   constructor(name = "Tom", age = 20, energy = 100) {
     this.name = name;
@@ -13,7 +13,7 @@ class Person {
   }
 }
 
-// Task 2: Code a Worker class
+// Task 2
 class Worker extends Person {
   constructor(name, age, energy, xp = 0, hourlyWage = 10) {
     super(name, age, energy);
@@ -25,12 +25,12 @@ class Worker extends Person {
   }
 }
 
-// Task 3: Code an intern object
+// Task 3
 var intern = new Worker("Bob", 21, 210, 0, 10);
 
-// Task 4: Code a manager object
+// Task 4
 var manager = new Worker("Alice", 30, 120, 100, 30);
 
-// Task 5: Run methods on object instances
+// Task 5
 intern.goToWork();
 manager.doSomethingFun();
