@@ -8,7 +8,7 @@ function hello() {
 
 How do you call your function in your code?
 
-- [ ] `hello;`
-- [x] `hello();` <br>
+- [ ] `hello;`.
+- [x] `hello();`. <br>
       Correct. In JavaScript, you can call a function by typing the function name followed by the open and close parentheses.
-- [ ] `hello(){}`
+- [ ] `hello(){}`.

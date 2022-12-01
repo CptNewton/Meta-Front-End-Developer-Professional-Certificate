@@ -1,4 +1,4 @@
-### Which of the following statements about modules in JavaScript are true? Choose all that apply.​
+### Which of the following statements about modules in JavaScript are true?
 
 - [x] Modules allow for code to be reused and more easily replaced. <br>
       Correct. Modules were added to JavaScript in version ES6 and allow for code to be imported, reused and more easily replaced.

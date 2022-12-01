@@ -6,9 +6,9 @@
 </script>
 ```
 
-- [x] True <br>
-      That's correct! type="text/javascript" is the implicit value of the script tag when it is omitted.
-- [ ] False
+- [x] True. <br>
+      That's correct! `type="text/javascript"` is the implicit value of the script tag when it is omitted.
+- [ ] False.
 
 ### 2. What does the document variable return in JavaScript?
 
@@ -33,7 +33,7 @@ getElementById('main-heading');
       That's correct! The first element with the attribute id="main-header" is returned.
 - [ ] The last element that has the id attribute with a value main-heading.
 
-### 4. After the following code is run, what will happen when the user clicks on a p element in the browser?
+### 4. After the following code is run, what will happen when the user clicks on a `p` element in the browser?
 
 ```
 document.querySelector('h1').addEventListener('click',
@@ -44,7 +44,7 @@ document.querySelector('h1').addEventListener('click',
 
 - [ ] 'clicked' is printed to the console log.
 - [x] Nothing. <br>
-      That's correct! The click event listener is registered on h1 elements.
+      That's correct! The click event listener is registered on `h1` elements.
 
 ### 5. What will be printed when the following code runs?
 
@@ -56,7 +56,7 @@ var result = {
 console.log(JSON.stringify(result));
 ```
 
-- [ ] {}
-- [ ] {value: 7}
-- [x] {"value": 7} <br>
+- [ ] {}.
+- [ ] {value: 7}.
+- [x] {"value": 7}. <br>
       That's correct! `JSON.stringify` will turn the object into a string representation. The property name is wrapped in double quotes in the representation.

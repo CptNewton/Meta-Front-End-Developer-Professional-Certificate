@@ -1,7 +1,7 @@
-### You are working with classes in JavaScript. Which of the following instructions should you adhere to? Check all that apply.
+### You are working with classes in JavaScript. Which of the following instructions should you adhere to?
 
-- [x] Build your classes using the “class” keyword. <br>
-      That's right. Any class is built using the “class” keyword.
+- [x] Build your classes using the `class` keyword. <br>
+      That's right. Any class is built using the `class` keyword.
 - [x] Add a constructor function to accept your parameters. <br>
       That's right. The constructor function assigns passed-in parameters to the future object’s properties.
 - [x] Create an instance of the class using the keyword new and that class' name, followed by opening and closing parentheses, and optional arguments, based on how the class itself is defined. <br>

@@ -6,9 +6,9 @@ for (var i = 0; i <= 3; i++) {
 }
 ```
 
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [x] 4 <br>
-      That is correct. The loop iterates 4 times, from zero to 3.
+- [ ] 0.
+- [ ] 1.
+- [ ] 2.
+- [ ] 3.
+- [x] 4. <br>
+     That is correct. The loop iterates 4 times, from zero to 3.

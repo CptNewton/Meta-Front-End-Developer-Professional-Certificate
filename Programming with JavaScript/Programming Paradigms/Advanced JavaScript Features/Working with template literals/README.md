@@ -1,4 +1,4 @@
-### In what ways can template literals be used to write JavaScript code more efficiently? Check all that apply:
+### In what ways can template literals be used to write JavaScript code more efficiently?
 
 - [x] You can create multi-line strings. <br>
       Correct! Template literals can be used to create multi-line strings, interpolate variables, and to combine strings with simpler code.

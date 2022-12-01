@@ -1,15 +1,15 @@
 ### 1. What is the data type of the value "Hello, World"?
 
-- [x] `string`. <br>
-      That's correct! The value of "Hello, World" is of the `string` data type.
-- [ ] `number`.
-- [ ] `boolean`.
+- [x] String. <br>
+      That's correct! The value of "Hello, World" is of the string` data type.
+- [ ] Number.
+- [ ] Boolean.
 
 ### 2. What is the data type of the value true?
 
-- [ ] `string`.
-- [ ] `number`.
-- [x] `boolean`. <br>
+- [ ] String.
+- [ ] Number.
+- [x] Boolean. <br>
       That's correct! The values of true and false are of the `boolean` data type.
 
 ### 3. What is the `%` operator?
@@ -46,8 +46,8 @@ i += 1;
 i += 2;
 ```
 
-- [ ] 7
-- [ ] 8
-- [ ] 9
-- [x] 10 <br>
+- [ ] 7.
+- [ ] 8.
+- [ ] 9.
+- [x] 10. <br>
       That's correct. 1 is added to `i` and the result is stored in `i`. The value is now 8. Then, 2 is added to `i` and the result is stored in `i`. The value is now 10.

@@ -1,14 +1,14 @@
-#### 1. What data type is the variable x?
+### 1. What data type is the variable x?
 
 ```
   var x = {};
 ```
 
-- [ ] Function
-- [ ] Array
-- [x] Object
+- [ ] Function.
+- [ ] Array.
+- [x] Object.
 
-#### 2. What will be the output of running the following code?
+### 2. What will be the output of running the following code?
 
 ```
 try {
@@ -19,22 +19,22 @@ console.log('caught')
 ```
 
 - [x] Uncaught SyntaxError: Invalid or unexpected token.
-- [ ] Caught
+- [ ] Caught.
 
-#### 3. What value is printed when the following code runs?
+### 3. What value is printed when the following code runs?
 
 ```
 var burger = ["bun", "beef", "lettuce", "tomato sauce", "onion", "bun"];
   console.log(burger[2]);
 ```
 
-- [ ] bun
-- [ ] beef
-- [x] lettuce
-- [ ] tomato sauce
-- [ ] onion
+- [ ] bun.
+- [ ] beef.
+- [x] lettuce.
+- [ ] tomato sauce.
+- [ ] onion.
 
-#### 4. In the following code, how many methods does the bicycle object have?
+### 4. In the following code, how many methods does the bicycle object have?
 
 ```
   var bicycle = {
@@ -48,11 +48,11 @@ var burger = ["bun", "beef", "lettuce", "tomato sauce", "onion", "bun"];
   };
 ```
 
-- [ ] 1
-- [x] 2
-- [ ] 3
+- [ ] 1.
+- [x] 2.
+- [ ] 3.
 
-#### 5. When the following code runs, what will print out?
+### 5. When the following code runs, what will print out?
 
 ```
 try {​
@@ -63,16 +63,16 @@ try {​
   }
 ```
 
-- [ ] Hello
-- [x] Goodbye
+- [ ] Hello.
+- [x] Goodbye.
 
-#### 6. If you mis-type some code in your JavaScript, what kind of error will that result in?
+### 6. If you mis-type some code in your JavaScript, what kind of error will that result in?
 
-- [ ] RangeError
-- [x] SyntaxErrror
-- [ ] TypeError
+- [ ] RangeError.
+- [x] SyntaxErrror.
+- [ ] TypeError.
 
-#### 7. Will the following code execute without an error?
+### 7. Will the following code execute without an error?
 
 ```
 function add(a, b) {
@@ -82,32 +82,32 @@ function add(a, b) {
   add(3, "4");
 ```
 
-- [x] Yes
-- [ ] No
+- [x] Yes.
+- [ ] No.
 
-#### 8. What will be printed when the following code runs?
+### 8. What will be printed when the following code runs?
 
 ```
 var result;
   console.log(result);
 ```
 
-- [x] undefined
-- [ ] null
-- [ ] 0
+- [x] undefined.
+- [ ] null.
+- [ ] 0.
 
-#### 9. What will be the output of the following code?
+### 9. What will be the output of the following code?
 
 ```
 var str = "Hello";
 str.match("jello");
 ```
 
-- [x] null
-- [ ] undefined
-- [ ] empty string
+- [x] null.
+- [ ] undefined.
+- [ ] empty string.
 
-#### 10. What will be the output of the following code?
+### 10. What will be the output of the following code?
 
 ```
 try {
@@ -117,7 +117,7 @@ console.log("There was an error")
 }
 ```
 
-- [ ] RangeError
-- [ ] 5
-- [ ] e
-- [x] "There was an error"
+- [ ] RangeError.
+- [ ] 5.
+- [ ] e.
+- [x] "There was an error".

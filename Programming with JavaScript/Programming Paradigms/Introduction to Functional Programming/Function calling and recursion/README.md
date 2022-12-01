@@ -1,8 +1,8 @@
 ### Do you recall these comparison operators `==` and `===` ?
 
-- [x] Yes <br>
+- [x] Yes. <br>
       Great! But just in case, check out the reading, Operators in depth in Module 1 Lesson 2.
-- [ ] No
+- [ ] No.
 
 ---
 
