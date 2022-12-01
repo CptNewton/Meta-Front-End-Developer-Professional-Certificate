@@ -7,13 +7,13 @@
 
 ### 2. What command did you use to change active directories?
 
-- [ ] ad
-- [ ] cb
-- [x] cd <br>
-      Correct! You used cd to change active directories.
+- [ ] `ad`.
+- [ ] `cb`.
+- [x] `cd`. <br>
+      Correct! You used `cd` to change active directories.
 
 ### 3. In what order do you run the commands to commit your file?
 
-- [x] commit, push <br>
-      Correct! You run the commands commit and then push.
-- [ ] push, commit
+- [x] `commit`, `push`. <br>
+      Correct! You run the commands `commit` and then `push`.
+- [ ] `push`, `commit`.

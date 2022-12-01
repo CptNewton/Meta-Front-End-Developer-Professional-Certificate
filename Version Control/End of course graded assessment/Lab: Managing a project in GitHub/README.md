@@ -38,7 +38,7 @@ Brown
 Red
 ```
 
-**Step 8**: Save the file
+**Step 8**: Save the file.
 
 **Step 9**: Using the diff command, note which lines were deleted and which lines were added.
 
