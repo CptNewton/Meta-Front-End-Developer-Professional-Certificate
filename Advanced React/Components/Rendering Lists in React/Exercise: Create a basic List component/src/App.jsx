@@ -1,3 +1,4 @@
+import React from "react";
 import "./App.css";
 import DessertsList from "./DessertsList";
 
@@ -24,7 +25,7 @@ const desserts = [
   },
 ];
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <h2>List of low calorie desserts:</h2>

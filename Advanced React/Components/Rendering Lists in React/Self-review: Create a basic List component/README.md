@@ -7,12 +7,12 @@
 
 ### 2. When chaining the three array operators required to complete the exercise, `map`, `filter` and `sort`; in which order should they be applied to `props.data`? Remember that `props.data` contains an array of dessert objects.
 
-- [ ] `sort`, `filter`, `map`.
-- [ ] `map`, `filter`, `sort`.
-- [x] `filter`, `sort`, `map`. <br>
-      That's correct, `filter` should go before `sort` since it returns a new array, making sure a copy of `props.data` is created before doing the sorting, which is a mutative operation. `map` should be always the last, to transform the item into the final React Element that should be rendered.
+- [ ] `Sort`, `filter`, `map`.
+- [ ] `Map`, `filter`, `sort`.
+- [x] `Filter`, `sort`, `map`. <br>
+      That's correct, `filter` should go before `sort` since it returns a new array, making sure a copy of `props.data` is created before doing the sorting, which is a mutative operation. `Map` should be always the last, to transform the item into the final React Element that should be rendered.
 
-### 3. When using the `map` function to transform an array item into a `<li>` element, what of the following code snippets should be inside the `<li>` tag to render the list item correctly in the following format: Ice Cream - 200 cal.
+### 3. When using the `map` function to transform an array item into a `<li>` element, what of the following code snippets should be inside the `<li>` tag to render the list item correctly in the following format: `Ice Cream - 200 cal`.
 
 - [ ] `<li>${dessert.name} - ${dessert.calories} cal</li>`.
 - [ ] `<li>dessert.name - dessert.calories + “cal”</li>`.
