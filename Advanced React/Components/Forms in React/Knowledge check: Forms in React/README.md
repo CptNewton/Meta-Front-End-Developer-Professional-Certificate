@@ -32,7 +32,7 @@
 
 - [ ] The `onSubmit` callback is executed and an alert is shown with the text "Submitting".
 - [ ] An error is thrown.
-- [ ] Nothing happens when the button is clicked. <br>
+- [x] Nothing happens when the button is clicked. <br>
       That's correct, the input should be of type submit, otherwise `onSubmit` callback from the form tag won’t fire.
 
 ### 5. What is missing in the below code for the select component to work properly?

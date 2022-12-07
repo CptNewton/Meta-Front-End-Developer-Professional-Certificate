@@ -1,11 +1,11 @@
-### 1. When setting a new value for the password state, that is represented by an object with two properties, `value` and `isTouched`, what’s the correct call to the `setPassword` state setter inside the `onChange` event handler? Select all that apply.
+### 1. When setting a new value for the password state, that is represented by an object with two properties, `value` and `isTouched`, what’s the correct call to the `setPassword` state setter inside the `onChange` event handler?
 
 - [x] `setPassword({ ...password, value: e.target.value });`. <br>
       That’s correct, `isTouched` is preserved, since it’s been merged at the beginning in the state setter, before setting the new value.
 - [ ] `setPassword({ isTouched: false, value: e.target.value });`.
 - [ ] `setPassword({ value: e.target.value });`.
 
-### 2. What’s the correct event prop you should use to determine when an input has been interacted with at least once? Select all that apply.
+### 2. What’s the correct event prop you should use to determine when an input has been interacted with at least once?
 
 - [ ] `onFocus`.
 - [x] `onBlur`. <br>

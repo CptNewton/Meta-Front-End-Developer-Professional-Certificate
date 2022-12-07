@@ -1,5 +1,5 @@
+import React, { useState } from "react";
 import "./App.css";
-import { useState } from "react";
 import { validateEmail } from "../src/utils";
 
 const PasswordErrorMessage = () => {
@@ -8,7 +8,7 @@ const PasswordErrorMessage = () => {
   );
 };
 
-function App() {
+const App = () => {
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
   const [email, setEmail] = useState("");
@@ -119,6 +119,6 @@ function App() {
       </form>
     </div>
   );
-}
+};
 
 export default App;

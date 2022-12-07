@@ -1,3 +1,4 @@
+import React from "react";
 import "./App.css";
 import { ThemeProvider, useTheme } from "../../../../../ThemeContext";
 import Switch from "./Switch";
@@ -59,7 +60,7 @@ const Page = () => {
   );
 };
 
-function App() {
+const App = () => {
   const { theme } = useTheme();
   return (
     <div

@@ -7,11 +7,11 @@
 
 ### 2. Assuming that the default theme for the application is ‘light’, what should be the default value passed to the `createContext` call?
 
-- [x] `undefined`. <br>
+- [x] undefined. <br>
       That's correct, the default value is not relevant and can be any value. It’s only useful for testing components in isolation or as a default value when a context consumer does not have a Provider further up in the tree.
-- [x] `null`. <br>
+- [x] null. <br>
       That's correct, the default value is not relevant and can be any value. It’s only useful for testing components in isolation or as a default value when a context consumer does not have a Provider further up in the tree.
-- [x] The string `light`. <br>
+- [x] The string "light". <br>
       That's correct, the default value is not relevant and can be any value. It’s only useful for testing components in isolation or as a default value when a context consumer does not have a Provider further up in the tree.
 
 ### 3. One of the parts of the context injected into the application is a function called `toggleTheme`. Assuming that the theme is held in some local state as a string that can be either ‘light’ or ‘dark’. What should be the exact implementation of the `toggleTheme` function?
