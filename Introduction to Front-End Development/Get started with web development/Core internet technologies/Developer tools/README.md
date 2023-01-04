@@ -1,4 +1,4 @@
-### As a developer, there are several web browser developer tools available to you. For example, there is a console tab that outputs JavaScript logs and errors from a web application. Which of the following statements are true? Choose all that apply.
+### As a developer, there are several web browser developer tools available to you. For example, there is a console tab that outputs JavaScript logs and errors from a web application. Which of the following statements are true?
 
 - [x] The Sources tab shows all content resolved for the current page. <br>
       That's correct! The Sources tab includes HTML, CSS, JavaScript, images and videos.

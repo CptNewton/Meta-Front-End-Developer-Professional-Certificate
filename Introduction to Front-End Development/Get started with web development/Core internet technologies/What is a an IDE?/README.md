@@ -1,4 +1,4 @@
-### An integrated development environment, or IDE, is software for building applications. This kind of software application has many different features to help you as a developer. Which of the following statements are true? Choose all that apply.
+### An integrated development environment, or IDE, is software for building applications. This kind of software application has many different features to help you as a developer. Which of the following statements are true?
 
 - [x] Special keywords of the programming language are highlighted in different colors to make the code easier to read. <br>
       That's correct! To improve readability for developers, IDEs have syntax highlighting.
