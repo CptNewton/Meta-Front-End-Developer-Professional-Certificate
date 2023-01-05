@@ -3,5 +3,4 @@
 - [ ] Opening tag: `<p/>` Closing tag: `</p>`.
 - [ ] Opening tag: `<p>` Closing tag: `<p/>`.
 - [ ] Opening tag: `<p>` Closing tag: `<p>`.
-- [x] Opening tag: `<p>` Closing tag: `</p>`. <br>
-      That’s correct! This is the format required for opening and closing paragraph tags.
+- [x] Opening tag: `<p>` Closing tag: `</p>`.

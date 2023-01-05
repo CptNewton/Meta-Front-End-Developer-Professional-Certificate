@@ -58,7 +58,7 @@ Follow the Step by Step instructions below:
 
 5. Add a heading 1 to the first divider element that displays your name.
 
-6. Add `photo.jpg` using an image element in the second divider element.
+6. Add `photo.jpg` using an image element in the second divider element..
 
 7. Add an ID attribute with the value `photo` on the image element.
 

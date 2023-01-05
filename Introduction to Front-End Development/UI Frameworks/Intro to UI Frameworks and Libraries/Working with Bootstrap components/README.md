@@ -1,4 +1,4 @@
-# Lab Instructions: Working with Bootstrap components
+# Lab: Working with Bootstrap components
 
 ## Introduction
 
@@ -14,17 +14,17 @@ In this exercise, you will practice adding Bootstrap components to a webpage.
 - Add an Alert component to the page to notify customers that the restaurant will be closed on New Year's Day.
 - Add a Button component to the page with the text Order Online.
 
-# Instructions
+## Instructions
 
-1. Open the `index.html` file.
+**Step 1:** Open index.html
 
-2. Add another `div` element below the Our Menu text-center div element.
+**Step 2:** Add another div element below the Our Menu text-center div element.
 
-3. Add a `class` attribute to the element with the value `alert alert-info`.
+**Step 3:** Add a `class` attribute to the element with the value `alert alert-info`.
 
-4. Add a `role` attribute to the element with the value `alert`.
+**Step 4:** Add a `role` attribute to the element with the value `alert`.
 
-5. Add the message `Our restaurant will be closed on New Year's Day`, inside the div element.
+**Step 5:** Add the message Our restaurant will be closed on New Year's Day, inside the div element.
 
 ```
 <div class="row">
@@ -39,33 +39,33 @@ In this exercise, you will practice adding Bootstrap components to a webpage.
 </div>
 ```
 
-6. Add a `span` element inside the Falafel h2 element, before the closing h2 tag.
+**Step 6:** Add a `span` element inside the Falafel h2 element, before the closing h2 tag.
 
-7. Add a `class` attribute to the span element, with the value `badge bg-secondary`.
+**Step 7:** Add a `class` attribute to the span element, with the value `badge bg-secondary`.
 
 ```
 <h2>Falafel <span class="badge bg-secondary">New</span></h2>
 ```
 
-8.  Add another `div` element after the last row element.
+**Step 8:** Add another `div` element after the last row element.
 
-9.  Add a `class` attribute with the value `row` to the div element.
+**Step 9:** Add a `class` attribute with the value `row` to the div element.
 
-10. Add a `div` element inside the row div element.
+**Step 10:** Add a div element inside the row div element.
 
-11. Add a `class` attribute with the `value col-12` to the div element.
+**Step 11:** Add a `class` attribute with the value col-12 to the div element.
 
-12. Add another `div` element inside the col-12 div element.
+**Step 12:** Add another `div` element inside the col-12 div element.
 
-13. Add a `class` attribute with the value `text-center` to the div element.
+**Step 13:** Add a `class` attribute with the value `text-center` to the div element.
 
-14. Add a `button` element inside the text-center div element.
+**Step 14:** Add a `button` element inside the text-center div element.
 
-15. Add a `type` attribute with the value `button`.
+**Step 15:** Add a `type` attribute with the value `button`.
 
-16. Add a `class` attribute with the value `btn btn-primary`.
+**Step 16:** Add a `class` attribute with the value `btn btn-primary`.
 
-17. Add the text `Order Online` inside the button element.
+**Step 17:** Add the text `Order Online` inside the button element.
 
 ```
 <div class="row">
@@ -77,4 +77,11 @@ In this exercise, you will practice adding Bootstrap components to a webpage.
 </div>
 ```
 
-18. Save the file.
+**Step 18:** Save the file.
+
+## Tips
+
+- Make sure to add your columns to row elements.
+- Remember that Bootstrap uses a 12 column grid system.
+- There are plenty of examples in the Bootstrap documentation.
+- Review the lessons _Using Bootstrap Styles_ and _Bootstrap Components_.

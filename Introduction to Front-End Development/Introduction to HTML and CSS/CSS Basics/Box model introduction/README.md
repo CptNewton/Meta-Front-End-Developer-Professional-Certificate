@@ -2,5 +2,4 @@
 
 - [ ] 180px.
 - [ ] 160px.
-- [x] 140px. <br>
-      Well done. Border box width = content width (100) + padding width (2x10) + border width (2x10).
+- [x] 140px.

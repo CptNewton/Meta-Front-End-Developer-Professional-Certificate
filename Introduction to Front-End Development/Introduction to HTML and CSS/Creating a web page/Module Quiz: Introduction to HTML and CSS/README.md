@@ -6,25 +6,21 @@
 </html>
 ```
 
-- [x] `<body>`. <br>
-      That's correct! The `body` element is added to the `html` element.
+- [x] `<body>`.
 - [ ] `<div>`.
-- [x] `<head>`. <br>
-      That's correct! The `head` element is added to the `html` element.
+- [x] `<head>`.
 - [ ] `<p>`.
 
 ### 2. When using the anchor tag `<a>`, which attribute determines where the hyperlink links to?
 
 - [ ] src.
-- [x] href. <br>
-      That's correct! The href attribute specifies where the hyperlink links to. `<a href="index.html">Link</a>`.
+- [x] href.
 - [ ] link.
 
 ### 3. When adding an image to a web page, which of the following is the correct HTML tag?
 
 - [ ] `<link>`.
-- [x] `<img>`. <br>
-      That's correct. The `img` tag adds an image to a web page. `<img src="image.jpg">`.
+- [x] `<img>`.
 - [ ] `<image>`.
 
 ### 4. How many `columns` exist on the following HTML table?
@@ -47,18 +43,15 @@
 ```
 
 - [ ] 1 column.
-- [x] 2 columns. <br>
-      That's correct. There are 2 columns and 3 rows in this HTML table.
+- [x] 2 columns.
 - [ ] 3 columns.
 
 ### 5. When an HTML form is submitted to a web server, which HTTP methods can be used?
 
-- [ ] PUT.
-- [x] POST. <br>
-      That's correct. A POST method can be used for the form submission. `<form method="post">`.
-- [ ] DELETE.
-- [x] GET. <br>
-      That's correct. A GET method can be used for the form submission. `<form method="get">`.
+- [ ] `PUT`.
+- [x] `POST`.
+- [ ] `DELETE`.
+- [x] `GET`.
 
 ### 6. For the following HTML code, which CSS selectors can be used to select the `h1` element?
 
@@ -66,12 +59,8 @@
 <h1 id="title">Welcome</h1>
 ```
 
-- [x] Element Selector. <br>
-      That's correct. The element selector can be used to select the `h1` element based on its `h1` tag.
-      `h1 { }`
-- [x] ID selector. <br>
-      That's correct. The ID selector can be used to select the `h1` element based on its ID attribute.
-      `#title { }`
+- [x] Element Selector.
+- [x] ID selector.
 - [ ] Class Selector.
 - [ ] Descendant Selector.
 
@@ -83,8 +72,7 @@ color: purple;
 }
 ```
 
-- [x] CSS Property. <br>
-      That's correct. The CSS properties are defined inside the curly brackets in a CSS rule.
+- [x] CSS Property.
 - [ ] CSS Rule.
 - [ ] CSS Selector.
 - [ ] CSS Attribute.
@@ -103,14 +91,12 @@ div {
 
 - [ ] 10 pixels.
 - [ ] 20 pixels.
-- [x] 30 pixels. <br>
-      That's correct. The margin-box width = content width + padding width + border width + margin width. In this scenario, the margin-box width is 30 pixels.
+- [x] 30 pixels.
 - [ ] 40 pixels.
 
 ### 9. In document flow, block-level elements always start on a new line.
 
-- [x] True. <br>
-      That's correct. Block-level elements always start on a new line.
+- [x] True.
 - [ ] False.
 
 ### 10. Based on the following CSS code, how will the text be aligned for the `p` element?
@@ -121,8 +107,7 @@ p {
 }
 ```
 
-- [x] The text will be spread out so that every line of the text has the same width within the `p` element. <br>
-      That's correct. The `justify` value will spread out the text within the p element so that every line has the same width.
+- [x] The text will be spread out so that every line of the text has the same width within the `p` element.
 - [ ] The text will be aligned to the right of the `p` element.
 - [ ] The text will be aligned to the left of the `p` element.
 - [ ] The text will be centered inside the `p` element.
