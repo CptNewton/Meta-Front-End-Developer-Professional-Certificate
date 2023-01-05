@@ -1,14 +1,12 @@
-### 1. In React, `props` is an object.
+### 1. In React, props is an object.
 
-- [x] True <br>
-      Yes, it is correct that `props` is an object in React.
-- [ ] False
+- [x] True.
+- [ ] False.
 
 ### 2. You can pass a prop to a component by adding an attribute to the component being rendered, with the attribute’s value becoming the value of the passed-in prop.
 
-- [x] True <br>
-      Yes, this statement is correct.
-- [ ] False
+- [x] True.
+- [ ] False.
 
 ### 3. W​hat is the error in the code below?
 
@@ -20,6 +18,5 @@ export default Greeting;
 ```
 
 - [ ] Y​ou need to add extra spacing after the function's name.
-- [x] The Greeting function should receive a `props` parameter. <br>
-      C​orrect. The Greeting function should receive a `props` parameter.
+- [x] The Greeting function should receive a `props` parameter.
 - [ ] Y​ou should always add a pair of parentheses after the `return` keyword.
