@@ -2,5 +2,4 @@
 
 - [ ] `onSubmit`.
 - [ ] `onChange`.
-- [x] `value`. <br>
-      That’s correct. State delegation is performed via the `value` prop. A combination of local state and the `value` prop is needed to create a controlled component.
+- [x] `value`.

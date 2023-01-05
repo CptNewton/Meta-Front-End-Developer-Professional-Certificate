@@ -7,13 +7,13 @@ One of the most common use cases for Context is to define a theme for your appli
 
 The starter code includes all the necessary UI elements, as well as switch component to toggle the theme. Your goal is to implement the missing functionality inside `ThemeContext.js`.
 `ThemeContext` already exports a `ThemeProvider` component and a `useTheme` hook.
-At the moment, they don't do anything and return dummy values. 
+At the moment, they don't do anything and return dummy values.
 
 ![Alt text](images/image1.png)
 
 You'll need to implement both `ThemeProvider` component and `useTheme` hook inside `ThemeContext.js` file to complete this exercise.
 
-`ThemeProvider` should render a context provider component and inject as the context value an object with 2 properties: a `theme` property that is a string that can be either `light` or `dark` and a function named `toggleTheme` that allows to toggle the theme. 
+`ThemeProvider` should render a context provider component and inject as the context value an object with 2 properties: a `theme` property that is a string that can be either `light` or `dark` and a function named `toggleTheme` that allows to toggle the theme.
 `useTheme` hook should return that context object.
 
 **Note:** Before you begin, make sure you understand how to work with the Coursera Code Lab for the [Advanced React course](https://www.coursera.org/learn/advanced-react/supplement/htaLX/working-with-labs-in-this-course).

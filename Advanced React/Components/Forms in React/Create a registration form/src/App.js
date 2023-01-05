@@ -8,7 +8,7 @@ const PasswordErrorMessage = () => {
   );
 };
 
-const App = () => {
+function App() {
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
   const [email, setEmail] = useState("");
@@ -119,6 +119,6 @@ const App = () => {
       </form>
     </div>
   );
-};
+}
 
 export default App;

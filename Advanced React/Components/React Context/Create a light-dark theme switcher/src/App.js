@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { ThemeProvider, useTheme } from "../../../../../ThemeContext";
+import { ThemeProvider, useTheme } from "./ThemeContext";
 import Switch from "./Switch";
 
 const Title = ({ children }) => {
@@ -60,7 +60,7 @@ const Page = () => {
   );
 };
 
-const App = () => {
+function App() {
   const { theme } = useTheme();
   return (
     <div
