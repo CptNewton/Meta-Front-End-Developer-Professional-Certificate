@@ -1,9 +1,9 @@
 ### 1. What is the Context API?
 
 - [ ] A way to change the execution context of a function in JavaScript.
-- [x] An alternative way to working with state in React.
+- [x] An alternative way to work with state in React.
 
-### 2. When working with useState to keep state in a variable, you should not use array destructuring.
+### 2. When working with `useState` to keep state in a variable, you should not use array destructuring.
 
 - [ ] True.
 - [x] False.

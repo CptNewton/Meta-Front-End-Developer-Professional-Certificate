@@ -19,7 +19,7 @@ function App() {
 - [ ] `click=handleClick`.
 - [x] `onClick={handleClick}`.
 
-### 2. Imagine that you have a variable named userLoggedIn and it’s set to the boolean of true. How would you complete the below clickHandler function declaration to toggle the value of the userLoggedIn boolean?
+### 2. Imagine that you have a variable named `userLoggedIn` and it’s set to the boolean of `true`. How would you complete the below `clickHandler` function declaration to toggle the value of the `userLoggedIn` boolean?
 
 ```
 function clickHandler() {

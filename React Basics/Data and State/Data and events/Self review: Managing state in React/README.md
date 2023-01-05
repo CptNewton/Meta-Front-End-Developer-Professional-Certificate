@@ -1,12 +1,12 @@
 ### 1. When lifting state up, you need to move the `useState` from a child component to a parent component.
 
 - [x] True.
-- [ ] False
+- [ ] False.
 
 ### 2. If the state variable holds an array or a string value, once you pass that state via props from a parent to a child, you can then read the length property from the received prop in the child component.
 
 - [x] True.
-- [ ] False
+- [ ] False.
 
 ### 3. What's wrong with this code?
 

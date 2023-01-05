@@ -2,4 +2,4 @@
 
 - [x] Hooks can be called only at the top level.
 - [x] Hooks can be called only from React functions.
-- [x] Hooks can be called from any JavaScript function.
+- [ ] Hooks can be called from any JavaScript function.
