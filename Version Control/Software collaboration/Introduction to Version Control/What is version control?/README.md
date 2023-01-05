@@ -2,5 +2,4 @@
 
 - [ ] Create a better team spirit.
 - [ ] Speed of programming.
-- [x] Efficiency. <br>
-      Well done! You, as a developer, will normally work on a project alongside many developers and team members with other skillsets. You and your team need to be efficient to make the project a success. To achieve this, you and your team normally work in an agile process.
+- [x] Efficiency.

@@ -6,6 +6,5 @@
 
 Does the most recent commit message on your respository contain the text `Successful exercise` similar to the screenshot below?
 
-- [x] Yes. <br>
-      Correct! You completed the exercise correctly.
+- [x] Yes.
 - [ ] No.
