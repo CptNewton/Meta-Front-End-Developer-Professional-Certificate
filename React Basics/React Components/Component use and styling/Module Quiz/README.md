@@ -52,8 +52,8 @@
 
 ### 9. You can use function calls in JSX.
 
-- [x] True
-- [ ] False
+- [x] True.
+- [ ] False.
 
 ### 10. When an arrow function has a single parameter, you do not need to add parentheses around the item parameter (to the left of the arrow).
 

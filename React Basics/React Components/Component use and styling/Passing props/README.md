@@ -4,7 +4,7 @@
 
 You’ve learned that you can send data in React through the use of props in components. Props allow you to create components that are reusable and contain dynamic data.
 
-Let me demonstrate this with a basic example. In this lab, you’re going to create a component with some simple “Hello, \_\_\_” text. If you know in advance that you’re always going to be saying hello to “Bob”, then you could simply hard-code the name “Bob” into your component. But what if the name of the person you’re saying “hello” to could change? Or what if you want to say “hello” to multiple different people at different places in your application? In these cases, hard-coding a name wouldn’t work very well. Instead, you'll need to create a component that uses props to pass this name data.
+Let me demonstrate this with a basic example. In this lab, you’re going to create a component with some simple “Hello, \_\_\_\_” text. If you know in advance that you’re always going to be saying hello to “Bob”, then you could simply hard-code the name “Bob” into your component. But what if the name of the person you’re saying “hello” to could change? Or what if you want to say “hello” to multiple different people at different places in your application? In these cases, hard-coding a name wouldn’t work very well. Instead, you'll need to create a component that uses props to pass this name data.
 
 Before you begin, if you run **npm start** and view the app in the browser you'll notice that the starting React app works as is. The app outputs a rather simple user interface. You'll build from this simple starting point.
 
