@@ -10,7 +10,7 @@
 - [x] `grep`.
 - [ ] `mkdir`.
 
-### 3. Which of the following are standard input/output (I/O) streams? =
+### 3. Which of the following are standard input/output (I/O) streams?
 
 - [x] `stdout`.
 - [x] `stdin`.
@@ -27,7 +27,7 @@
 - [ ] `cd`.
 - [x] `ls`.
 
-### 6. The mv command is used to create directories.
+### 6. The `mv` command is used to create directories.
 
 - [ ] True.
 - [x] False.

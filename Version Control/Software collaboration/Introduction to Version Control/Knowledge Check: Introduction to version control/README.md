@@ -1,7 +1,7 @@
 ### 1. Which of the following are the benefits of using Version Control?
 
 - [x] Identity.
-- [x] Revert / Rollback.
+- [x] Revert/Rollback.
 - [x] Collaboration.
 
 ### 2. When multiple developers work on the same file, a merge conflict will never occur.

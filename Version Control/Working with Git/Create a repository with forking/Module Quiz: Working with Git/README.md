@@ -15,7 +15,7 @@
 - [ ] `git clone`.
 - [ ] `git commit`.
 
-### 4. The git diff command will show the revision history of a repository.
+### 4. The `git diff` command will show the revision history of a repository.
 
 - [ ] True.
 - [x] False.
@@ -31,7 +31,7 @@
 - [x] `git branch feature`.
 - [x] `git checkout -b feature`.
 
-### 7. You’re working on a clothing store application and run the git diff command on your local repository. It outputs the lines below. Which clothing item was removed as part of these changes?
+### 7. You’re working on a clothing store application and run the `git diff` command on your local repository. It outputs the lines below. Which clothing item was removed as part of these changes?
 
 ```
 @@ -4,8 +4,8 @@
