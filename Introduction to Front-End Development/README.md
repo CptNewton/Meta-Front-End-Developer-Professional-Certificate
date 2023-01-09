@@ -1,1 +1,1 @@
-![Certificate](https://github.com/joanskenderi/Meta-Front-End-Developer-Professional-Certificate/blob/master/Introduction%20to%20Front-End%20Development/Certificate.pdf)
+[Introduction to Front-End Development.pdf](https://github.com/joanskenderi/Meta-Front-End-Developer-Professional-Certificate/files/10372252/Introduction.to.Front-End.Development.pdf)
