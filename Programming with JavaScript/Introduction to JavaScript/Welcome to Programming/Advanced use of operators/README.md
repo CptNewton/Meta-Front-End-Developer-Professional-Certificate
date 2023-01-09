@@ -7,9 +7,7 @@ You are coding an RPG game, where each character has certain skill levels based 
 1. Create a variable named `score` and set it to `8`.
 2. Use `console.log()` that includes the string `"Mid-level skills:"` and compares the `score` variable to above `0` and below `10` using the `&&` operator.
 
-## The expected output in the console should be: `"Mid-level skills: true"`.
-
----
+The expected output in the console should be: `"Mid-level skills: true"`.
 
 ## Task 2: Using the logical || operator
 
@@ -27,8 +25,6 @@ Complete the task using the following steps:
 
 The expected output in the console should be: `"Game over: true"`.
 
----
-
 ## Task 3: Using the modulus operator, %, to test if a given number is odd
 
 You need to code a small program that takes a number and determines if it's an even number (like 2, 4, 6, 8, 10).
@@ -42,15 +38,11 @@ To achieve this task, you need to declare six variables, as follows:
 5. The fifth variable, named `result1`, should be assigned the result of comparing if the number stored in the `test1` variable is not equal to 0, in other words, this: `test1 == 0`.
 6. The sixth variable, named `result2`, should be assigned the result of comparing if the number stored in the `test2` variable is not equal to `0`, in other words, `test2 == 0`.
 
----
-
 ## Task 4: Add numbers using the + operator
 
 Console log the result of adding two numbers, `5` and `10`, using the `+` operator.
 
 This task should be completed on a single line of code. The output in the console should be `15`.
-
----
 
 ## Task 5: Concatenate numbers and strings using the + operator
 
@@ -65,8 +57,6 @@ Code three variables:
 4. Console log the following code: `now + three + d`.
 
 The expected output should be: `"Now in 3D!"`.
-
----
 
 ## Task 6: Use the += operator to accumulate values in a variable
 

@@ -1,10 +1,7 @@
 ### Which of the following are examples of logical operators?
 
 - [ ] Subtraction.
-- [x] And. <br>
-      That's correct! And is a logical operator, not a math operator.
-- [x] Or. <br>
-      That's correct! Or is a logical operator, not a math operator.
+- [x] And.
+- [x] Or.
 - [ ] Multiplication.
-- [x] Not. <br>
-      That's correct! Not is a logical operator, not a math operator.
+- [x] Not.

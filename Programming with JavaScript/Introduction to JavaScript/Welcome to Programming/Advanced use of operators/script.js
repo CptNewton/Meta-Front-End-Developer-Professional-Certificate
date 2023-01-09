@@ -8,7 +8,6 @@ var energy = 10;
 console.log("Game over:", timeRemaining == 0 || energy == 0);
 
 // Task 3
-
 var num1 = 2;
 var num2 = 5;
 var test1 = num1 % 2;

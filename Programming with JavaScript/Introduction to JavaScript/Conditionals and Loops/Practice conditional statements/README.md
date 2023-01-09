@@ -12,8 +12,6 @@
 
 5. Add an `else` statement to capture any other value. Inside the block, type "console.log" and then "The value of the age variable is not numerical".
 
----
-
 ## Task 2: Days of the week
 
 1. On the next line, define a new variable, name it `day`, and set its value to `"Sunday"`.

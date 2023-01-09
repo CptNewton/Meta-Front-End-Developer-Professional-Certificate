@@ -1,4 +1,4 @@
-// Step 1
+// Task 1
 var dairy = [
   "cheese",
   "sour cream",
@@ -16,7 +16,7 @@ function logDairy() {
 
 logDairy();
 
-// Step 2
+// Task 2
 const animal = {
   canJump: true,
 };
@@ -34,7 +34,7 @@ function birdCan() {
 
 birdCan();
 
-// Step 3
+// Task 3
 function animalCan() {
   for (prop in bird) {
     console.log(prop + ": " + bird[prop]);

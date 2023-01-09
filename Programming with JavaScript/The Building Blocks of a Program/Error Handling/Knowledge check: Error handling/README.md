@@ -5,9 +5,8 @@ var result = null;
 console.log(result);
 ```
 
-- [ ] undefined.
-- [x] null. <br>
-      That's correct! Since the value is initialised with null, null will be output.
+- [ ] Undefined.
+- [x] Null.
 - [ ] 0.
 
 ### 2. When the following code runs, what will print out?
@@ -20,16 +19,14 @@ try {​
 }
 ```
 
-- [x] Hello. <br>
-      That's correct! Since there is no error thrown inside the try block, the catch block will not run. Therefore, "Hello" will print out.
+- [x] Hello.
 - [ ] Goodbye.
 
 ### 3. If you pass an unsupported data type to a function, what error will be thrown?
 
 - [ ] RangeError.
 - [ ] SyntaxErrror.
-- [x] TypeError. <br>
-      That's correct! TypeError will be thrown when an incorrect data type is passed to a function.
+- [x] TypeError.
 
 ### 4. What will print out when the following code runs?
 
@@ -45,10 +42,9 @@ if(x === null) {
 }
 ```
 
-- [ ] null.
-- [x] undefined. <br>
-      That's correct! Since the value is not initialised, it will have the undefined data type.
-- [ ] ok.
+- [ ] Null.
+- [x] Undefined.
+- [ ] Ok.
 
 ### 5. What will print out when the following code runs?
 
@@ -58,5 +54,4 @@ console.log("Hello");
 ```
 
 - [ ] Hello.
-- [x] Nothing will print out. <br>
-      That's correct! Throwing an error will stop the execution of the code.
+- [x] Nothing will print out.

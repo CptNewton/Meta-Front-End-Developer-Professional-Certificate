@@ -21,6 +21,7 @@ console.log("Counting completed!");
 
 // Task 4
 var i = 5;
+
 while (i > 0) {
   console.log(i);
   i--;

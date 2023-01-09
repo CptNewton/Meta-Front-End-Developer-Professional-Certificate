@@ -1,8 +1,6 @@
 ### 1. What data type is the variable x?
 
-```
-  var x = {};
-```
+`var x = {};`
 
 - [ ] Function.
 - [ ] Array.
@@ -28,11 +26,11 @@ var burger = ["bun", "beef", "lettuce", "tomato sauce", "onion", "bun"];
   console.log(burger[2]);
 ```
 
-- [ ] bun.
-- [ ] beef.
-- [x] lettuce.
-- [ ] tomato sauce.
-- [ ] onion.
+- [ ] Bun.
+- [ ] Beef.
+- [x] Lettuce.
+- [ ] Tomato sauce.
+- [ ] Onion.
 
 ### 4. In the following code, how many methods does the bicycle object have?
 
@@ -92,8 +90,8 @@ var result;
   console.log(result);
 ```
 
-- [x] undefined.
-- [ ] null.
+- [x] Undefined.
+- [ ] Null.
 - [ ] 0.
 
 ### 9. What will be the output of the following code?
@@ -103,9 +101,9 @@ var str = "Hello";
 str.match("jello");
 ```
 
-- [x] null.
-- [ ] undefined.
-- [ ] empty string.
+- [x] Null.
+- [ ] Undefined.
+- [ ] Empty string.
 
 ### 10. What will be the output of the following code?
 
@@ -119,5 +117,5 @@ console.log("There was an error")
 
 - [ ] RangeError.
 - [ ] 5.
-- [ ] e.
+- [ ] E.
 - [x] "There was an error".

@@ -16,8 +16,6 @@ Inside the loop, write an if-else statement, which will check the following cond
 
 4. For all the remaining values of `i`, your code will console log just the value of `i`.
 
----
-
 ## Task 2:
 
 Use the completed code from the previous task, but convert the conditionals to a switch statement.

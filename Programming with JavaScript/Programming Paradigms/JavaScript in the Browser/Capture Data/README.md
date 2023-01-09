@@ -4,13 +4,9 @@
 
 Open the example.com website in your browser. Open the developer tools and focus on the Console tab.
 
----
-
 ## Task 2: Get h1 into a variable
 
 Use the `document.querySelector()` method to query the h1 element on the page and assign it to the variable named `h1`.
-
----
 
 ## Task 3: Code an array
 
@@ -24,8 +20,6 @@ Declare a new variable, name it arr, and save the following array into it:
     'Third Click'
 ]
 ```
-
----
 
 ## Task 4: Write a click-handling function
 
@@ -42,8 +36,6 @@ The second case should start with case `arr[1]:`. It should set the `h1.innerTex
 The third case should start with case `arr[2]:`. It should set the `h1.innerText` to `arr[3]`. In other words, it should assign the value of `arr[3]` to the `h1.innerText` property. The next line should have only the `break` keyword.
 
 The `default` case should set the value of the `h1.innerText` property to arr[0].
-
----
 
 ## Task 5: Add an event listener
 
