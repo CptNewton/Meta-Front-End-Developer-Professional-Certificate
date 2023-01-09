@@ -1,9 +1,9 @@
 ### 1. To reference a JavaScript script or file in an HTML document, you use the \_\_\_ tag.
 
-- [ ] javascript.
-- [ ] library.
-- [x] script.
-- [ ] code.
+- [ ] `javascript`.
+- [ ] `library`.
+- [x] `script`.
+- [ ] `code`.
 
 ### 2. If your application requires a library or framework to run, this is called a \_\_\_.
 

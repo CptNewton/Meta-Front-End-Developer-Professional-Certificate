@@ -35,14 +35,14 @@ div {
 
 ### 4. Which CSS property and value change the HTML element to a block-level element?
 
-- [ ] align-content.
-- [ ] content.
-- [ ] list-style.
-- [x] display: block.
+- [ ] `align-content`.
+- [ ] `content`.
+- [ ] `list-style`.
+- [x] `display: block`.
 
 ### 5. Which CSS property and value change the text to center alignment?
 
-- [x] text-align: center.
-- [ ] align-self.
-- [ ] vertical-align.
-- [ ] align-items.
+- [x] `text-align: center`.
+- [ ] `align-self`.
+- [ ] `vertical-align`.
+- [ ] `align-items`.

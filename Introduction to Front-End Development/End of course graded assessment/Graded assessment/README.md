@@ -72,7 +72,7 @@ div {
 - [x] Breakpoint.
 - [ ] Box Point.
 
-### 9. In the following HTML, the btn-primary CSS class is applied to the button element. What is this CSS class known as in Bootstrap?
+### 9. In the following HTML, the `btn-primary` CSS class is applied to the button element. What is this CSS class known as in Bootstrap?
 
 ```
 <button class="btn btn-primary">Submit</button>

@@ -13,9 +13,9 @@
 
 ### 2. When using the anchor tag `<a>`, which attribute determines where the hyperlink links to?
 
-- [ ] src.
-- [x] href.
-- [ ] link.
+- [ ] `src`.
+- [x] `href`.
+- [ ] `link`.
 
 ### 3. When adding an image to a web page, which of the following is the correct HTML tag?
 
