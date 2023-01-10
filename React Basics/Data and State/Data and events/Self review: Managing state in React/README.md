@@ -3,7 +3,7 @@
 - [x] True.
 - [ ] False.
 
-### 2. If the state variable holds an array or a string value, once you pass that state via props from a parent to a child, you can then read the length property from the received prop in the child component.
+### 2. If the state variable holds an array or a string value, once you pass that state via `props` from a parent to a child, you can then read the length property from the received prop in the child component.
 
 - [x] True.
 - [ ] False.

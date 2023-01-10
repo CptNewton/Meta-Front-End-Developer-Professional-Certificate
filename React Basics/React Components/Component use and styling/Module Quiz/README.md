@@ -12,17 +12,17 @@
 - [ ] A named function declaration.
 - [x] A named function declaration and a return statement with at least a single element with some text inside of it.
 
-### 3. What are the benefits of using props?
+### 3. What are the benefits of using `props`?
 
-- [ ] Props allow developers to write custom HTML tags.
-- [ ] Props allow children components to update the values of each prop independent from their parent component.
-- [x] Props allow parent components to pass data to children components.
+- [ ] `props` allow developers to write custom HTML tags.
+- [ ] `props` allow children components to update the values of each prop independent from their parent component.
+- [x] `props` allow parent components to pass data to children components.
 
 ### 4. You are tasked with building a web layout using React. The layout should have a header, a footer, and three products showing various data in the main part of the page. Choose the preferred component structure.
 
 - [ ] It should all fit into a single component named App component.
 - [ ] It should have a separate component for each link, paragraph, heading, etc.
-- [x] It should have the following components: Header, Main, Product, Footer (with the Product component being imported into Main and rendered three times).
+- [x] It should have the following components: `Header`, `Main`, `Product`, `Footer` (with the Product component being imported into Main and rendered three times).
 
 ### 5. Which of the following keywords can you usually find in a React component?
 

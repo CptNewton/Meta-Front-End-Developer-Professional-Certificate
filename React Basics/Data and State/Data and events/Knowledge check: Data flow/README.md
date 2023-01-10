@@ -11,9 +11,9 @@
 
 ### 3. A component can, at any given time \_\_\_.
 
-- [x] Pass data as props.
-- [x] Receive data as props.
-- [x] Pass data as props and receive data as props at the same time.
+- [x] Pass data as `props`.
+- [x] Receive data as `props`.
+- [x] Pass data as `props` and receive data as `props` at the same time.
 
 ### 4. You can only pass a single prop to a component.
 

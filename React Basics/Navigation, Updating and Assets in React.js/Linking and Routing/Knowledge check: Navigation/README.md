@@ -21,6 +21,6 @@
 
 ### 5. Complete the sentence: an SPA comes with its own special implementation of anchor tags and links, which only give an illusion of loading different pages to the end user, when in fact they simply...
 
-- [ ] ...load a single component into multiple elements of the real DOM into which the virtual DOM tree gets mounted and updated.
-- [ ] ...load different components into a single element of the virtual DOM into which the real DOM tree gets mounted and updated.
-- [x] ...load different components into a single element of the real DOM into which the virtual DOM tree gets mounted and updated.
+- [ ] Load a single component into multiple elements of the real DOM into which the virtual DOM tree gets mounted and updated.
+- [ ] Load different components into a single element of the virtual DOM into which the real DOM tree gets mounted and updated.
+- [x] Load different components into a single element of the real DOM into which the virtual DOM tree gets mounted and updated.

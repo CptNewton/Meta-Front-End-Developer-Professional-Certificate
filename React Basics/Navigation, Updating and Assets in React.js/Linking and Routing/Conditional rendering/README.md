@@ -10,7 +10,7 @@ function CurrentImage() { 
           } 
 ```
 
-### Based on this code, what will be returned if the getHours function produces a value of 14?
+### Based on this code, what will be returned if the `getHours` function produces a value of 14?
 
 - [x] Daytime.
 - [ ] Night-time.

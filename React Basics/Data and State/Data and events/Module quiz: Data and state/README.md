@@ -25,8 +25,8 @@
 
 ### 6. Choose the correct statement.
 
-- [ ] Remember that you should always change the values of props in children components; you should never work with them as they are. In other words, props are mutable.
-- [x] Remember that you should never change the values of props in children components; you should only work with them as they are. In other words, props are immutable.
+- [ ] Remember that you should always change the values of `props` in children components; you should never work with them as they are. In other words, `props` are mutable.
+- [x] Remember that you should never change the values of `props` in children components; you should only work with them as they are. In other words, `props` are immutable.
 
 ### 7. Is this code valid?
 

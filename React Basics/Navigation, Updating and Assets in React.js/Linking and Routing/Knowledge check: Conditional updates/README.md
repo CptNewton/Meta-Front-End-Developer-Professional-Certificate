@@ -16,7 +16,7 @@
 
 ### 3. If the value of the test variable evaluates to true, what will the following code render?
 
-`< div > {test && < h1 > Hello < /h1>} World</div >`
+`<div> {test && < h1 > Hello < /h1>} World</div >`
 
 - [x] Hello World.
 - [ ] Hello.

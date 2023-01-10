@@ -1,4 +1,4 @@
-import { React, useState, useRef } from "react";
+import React, { useState, useRef } from "react";
 import "./App.css";
 
 function App() {
@@ -13,17 +13,23 @@ function App() {
 
   function minus(e) {
     e.preventDefault();
-    setResult((result) => result - Number(inputRef.current.value));
+    const inputVal = inputRef.current.value;
+    const newResult = result - Number(inputVal);
+    setResult(newResult);
   }
 
   function times(e) {
     e.preventDefault();
-    setResult((result) => result * Number(inputRef.current.value));
+    const inputVal = inputRef.current.value;
+    const newResult = result * Number(inputVal);
+    setResult(newResult);
   }
 
   function divide(e) {
     e.preventDefault();
-    setResult((result) => result / Number(inputRef.current.value));
+    const inputVal = inputRef.current.value;
+    const newResult = result / Number(inputVal);
+    setResult(newResult);
   }
 
   function resetInput(e) {

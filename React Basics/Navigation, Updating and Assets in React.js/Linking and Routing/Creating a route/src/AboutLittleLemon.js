@@ -1,5 +1,3 @@
-import React from "react";
-
 function AboutLittleLemon() {
   return <h1>About AboutLittleLemon</h1>;
 }

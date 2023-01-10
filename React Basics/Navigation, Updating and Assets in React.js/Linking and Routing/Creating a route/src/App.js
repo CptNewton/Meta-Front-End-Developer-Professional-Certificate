@@ -1,4 +1,3 @@
-import React from "react";
 import "./App.css";
 import Homepage from "./Homepage";
 import AboutLittleLemon from "./AboutLittleLemon";

@@ -1,4 +1,4 @@
-### 1. In React, props is an object.
+### 1. In React, `props` is an object.
 
 - [x] True.
 - [ ] False.
@@ -18,5 +18,5 @@ export default Greeting;
 ```
 
 - [ ] Y​ou need to add extra spacing after the function's name.
-- [x] The Greeting function should receive a props parameter.
+- [x] The Greeting function should receive a `props` parameter.
 - [ ] Y​ou should always add a pair of parentheses after the `return` keyword.

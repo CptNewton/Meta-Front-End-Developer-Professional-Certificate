@@ -3,12 +3,12 @@
 - [ ] A component that doesn’t track its parent’s state.
 - [x] A component that doesn’t track its own state.
 
-### 2. A stateful component must have a props object.
+### 2. A stateful component must have a `props` object.
 
 - [ ] True.
 - [x] False.
 
-### 3. To turn a stateless component into a stateful component, you must pass it a props object.
+### 3. To turn a stateless component into a stateful component, you must pass it a `props` object.
 
 - [ ] True.
 - [x] False.

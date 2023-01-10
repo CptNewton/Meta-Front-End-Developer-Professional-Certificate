@@ -14,7 +14,7 @@
 - [x] True.
 - [ ] False.
 
-### 4. Please choose the valid command to install react-player.
+### 4. Please choose the valid command to install `react-player`.
 
 - [x] `npm install react-player`.
 - [ ] `npm-install react-player`.

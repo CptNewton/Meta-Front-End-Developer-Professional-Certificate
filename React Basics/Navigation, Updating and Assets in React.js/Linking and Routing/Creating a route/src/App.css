@@ -1,10 +1,12 @@
 * {
   font-family: sans-serif;
 }
+
 nav {
   background: #ee9972;
   padding: 20px;
 }
+
 nav a {
   color: #edefee;
   text-decoration: none;
