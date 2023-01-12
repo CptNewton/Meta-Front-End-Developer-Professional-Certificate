@@ -1,4 +1,4 @@
-### 1. Imagine you have an array with one object that represents a dessert. You would like to apply some transformation to the item to output a different structure using the map function as per the code below. What would be the value of the `newDesserts` variable?
+### 1. Imagine you have an array with one object that represents a dessert. You would like to apply some transformation to the item to output a different structure using the `map` function as per the code below. What would be the value of the `newDesserts` variable?
 
 ```
 const desserts = [
@@ -68,7 +68,7 @@ const newDesserts = desserts.map((dessert) => {
 - [x] There is no persistence of the keys generated since the moment the component re-renders the keys will vary and that could cause unexpected UI changes.
 - [ ] The randomiser function is a potential performance bottleneck since it has to run every re-render and it’s an unnecessary computation.
 
-### 4. The todos array contains a list of todo objects, where each object has an id property that is unique. Which of the following code snippets will throw a React warning when opening up the browser console?
+### 4. The `todos` array contains a list of `todo` objects, where each object has an `id` property that is unique. Which of the following code snippets will throw a React warning when opening up the browser console?
 
 - [x]
 

@@ -36,7 +36,7 @@
 - [x] The Context object obtained via the `createContext` call.
 - [ ] The React state that defines the global state to be injected.
 
-### 7. Imagine the below component structure, where all components ComponentA, ComponentB and ComponentC are simple presentational components that hold no props or state:
+### 7. Imagine the below component structure, where all components `ComponentA`, `ComponentB` and `ComponentC` are simple presentational components that hold no `props` or state:
 
 ```
 const App = () => {
@@ -52,17 +52,17 @@ const ComponentB = () => <ComponentC />;
 const ComponentC = () => null;
 ```
 
-If the App component re-rendered for whatever reason, what would be the sequence of component re-renders that would take place?
+### If the App component re-rendered for whatever reason, what would be the sequence of component re-renders that would take place?
 
 - [ ] App -> ComponentA -> ComponentB -> ComponentC.
 - [ ] App -> ComponentB -> ComponentC.
 - [x] App.
 
-### 8. Even though props and state are inherently different, what are areas where they overlap?
+### 8. Even though `props` and state are inherently different, what are areas where they overlap?
 
-- [x] Both props and state are plain JS objects.
-- [x] Both props and state changes trigger a render update.
-- [x] Both props and state are deterministic, meaning that your component always generates the same output for the same combination of props and state.
+- [x] Both `props` and state are plain JS objects.
+- [x] Both `props` and state changes trigger a render update.
+- [x] Both `props` and state are deterministic, meaning that your component always generates the same output for the same combination of `props` and state.
 
 ### 9. When defining a JavaScript object as a piece of local React state that will be injected as context, what is the specific React hook that allows you to keep the same object reference in memory and prevent unnecessary re-renders if the object itself hasn’t changed any values?
 

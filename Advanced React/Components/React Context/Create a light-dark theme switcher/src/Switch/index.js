@@ -1,4 +1,3 @@
-import React from "react";
 import "./Styles.css";
 import { useTheme } from "../ThemeContext";
 

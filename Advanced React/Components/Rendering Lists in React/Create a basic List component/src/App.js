@@ -1,4 +1,3 @@
-import React from "react";
 import "./App.css";
 import DessertsList from "./DessertsList";
 
@@ -32,6 +31,6 @@ const App = () => {
       <DessertsList data={desserts} />
     </div>
   );
-}
+};
 
 export default App;

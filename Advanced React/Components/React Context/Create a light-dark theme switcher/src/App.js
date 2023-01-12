@@ -1,4 +1,3 @@
-import React from "react";
 import "./App.css";
 import { ThemeProvider, useTheme } from "./ThemeContext";
 import Switch from "./Switch";

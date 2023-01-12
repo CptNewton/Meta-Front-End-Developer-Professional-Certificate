@@ -1,5 +1,3 @@
-import React from "react";
-
 const DessertsList = (props) => {
   const lowCaloriesDesserts = props.data
     .filter((dessert) => {
