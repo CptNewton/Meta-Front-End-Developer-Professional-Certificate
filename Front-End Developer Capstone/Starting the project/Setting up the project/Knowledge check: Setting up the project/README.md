@@ -1,4 +1,4 @@
-### 1. Which of the following commands do you use to create a react project package?
+### 1. Which of the following commands do you use to create a React project package?
 
 - [x] `npx create-react-app app-name`.
 - [ ] `npm init create-react-app my-app`.

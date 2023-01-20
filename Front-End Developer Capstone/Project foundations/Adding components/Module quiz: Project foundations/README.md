@@ -47,12 +47,12 @@
 - [ ] `rem`.
 - [x] `vw`.
 
-### 8. HTML event attributes are `lowercased`; React event attributes are `camelCased`.
+### 8. HTML event attributes are `lowercased`. React event attributes are `camelCased`.
 
 - [x] True.
 - [ ] False.
 
-### 9. What is prop in a react component?
+### 9. What is prop in a React component?
 
 - [ ] A way to handle user input.
 - [ ] A way to modify the component's state.

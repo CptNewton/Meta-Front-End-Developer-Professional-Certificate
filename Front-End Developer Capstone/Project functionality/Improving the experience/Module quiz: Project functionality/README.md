@@ -26,7 +26,7 @@ function Example() {
 - [x] `useState` is more performant.
 - [ ] `useReducer` is more performant.
 
-### 3. Why do you use the `useEffect` hook in a react project?
+### 3. Why do you use the `useEffect` hook in a React project?
 
 - [x] To trigger an effect when the component mounts or updates.
 - [x] To clean up effects before the component unmounts or re-renders.
@@ -41,7 +41,7 @@ function Example() {
 
 ### 5. Which of the following are common uses of JSON in a React project?
 
-- [x] To declare dependencies in package.json.
+- [x] To declare dependencies in 'package.json'.
 - [x] To send data to a REST API.
 - [x] To receive data from a REST API.
 
@@ -66,7 +66,7 @@ function Example() {
 
 ### 8. What is this code in JavaScript:
 
-`/Make Your Reservation/? `
+`/Make Your Reservation/`
 
 - [ ] An array literal.
 - [x] RegExp object literal.
@@ -79,7 +79,7 @@ function Example() {
 
 ### 10. Can you use arrow functions to update the state of a component?
 
-- [ ] Only in certain type of state
+- [ ] Only in certain type of state.
 - [x] Yes.
 - [ ] No.
 - [ ] Only in some cases.

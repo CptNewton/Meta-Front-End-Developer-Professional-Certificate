@@ -21,9 +21,9 @@
 
 ### 4. Which of the followings are not the purpose of `create-react-app`?
 
-- [x] Add react to an existing project.
-- [x] Build and deploy the current react app from source.
-- [ ] Create a new react project.
+- [x] Add React to an existing project.
+- [x] Build and deploy the current React app from source.
+- [ ] Create a new React project.
 - [x] To test React components.
 
 ### 5. What's the importance of the 'node_modules' folder for a React app built using the `create-react-app` npm package?
@@ -50,7 +50,7 @@
 - [x] `create-react-app`.
 - [ ] `git`.
 
-### 9. To host a react project, you need to upload the content of the 'src' directory in your web hosting space.
+### 9. To host a React project, you need to upload the content of the 'src' directory in your web hosting space.
 
 - [ ] True.
 - [x] False.
