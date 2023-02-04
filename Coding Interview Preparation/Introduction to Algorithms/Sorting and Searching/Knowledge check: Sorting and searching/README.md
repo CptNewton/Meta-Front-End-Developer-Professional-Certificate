@@ -6,9 +6,9 @@
 
 ### 2. Given an array of numbers and a target value, using a loop, what is the worst-case time complexity to check if the number is present in the array?
 
-- [ ] O(1).
-- [ ] O(log n).
-- [x] O(n).
+- [ ] `O(1)`.
+- [ ] `O(log n)`.
+- [x] `O(n)`.
 
 ### 3. A binary search can only be performed on a sorted dataset.
 
@@ -27,9 +27,9 @@ FOR i = 0 TO n:
 
 What is the space complexity of this problem?
 
-- [ ] O(n).
-- [ ] O(log n).
-- [x] O(n^2).
+- [ ] `O(n)`.
+- [ ] `O(log n)`.
+- [x] `O(n^2)`.
 
 ### 5. What advantage is there to changing element location using an in-place swap?
 

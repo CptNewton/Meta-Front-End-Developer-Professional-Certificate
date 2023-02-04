@@ -12,9 +12,9 @@
 
 ### 3. If an application returned a result after one computation it ran in:
 
-- [x] O(1).
-- [ ] O(log(n)).
-- [ ] O(n).
+- [x] `O(1)`.
+- [ ] `O(log(n))`.
+- [ ] `O(n)`.
 
 ### 4. Which of the following equations can be said to be true:
 

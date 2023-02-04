@@ -11,9 +11,9 @@
 
 ### 3. What time complexity is required to do a linear search?
 
-- [ ] O(1).
-- [ ] ((log (n)).
-- [x] O(n).
+- [ ] `O(1)`.
+- [ ] `((log (n))`.
+- [x] `O(n)`.
 
 ### 4. Why do we need Big-O notation to evaluate our programs?
 
@@ -47,7 +47,7 @@
 
 ### 9. Why is a binary search conducted in `O(log n)` time?
 
-- [ ] It is not, it is conducted in O(n).
+- [ ] It is not, it is conducted in `O(n)`.
 - [ ] Because as it searches it sorts the elements.
 - [x] Regardless of the size of the input, at every step the number of calculations is halved.
 

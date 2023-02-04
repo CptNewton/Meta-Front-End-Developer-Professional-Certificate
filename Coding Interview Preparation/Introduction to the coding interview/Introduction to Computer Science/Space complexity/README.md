@@ -10,6 +10,6 @@ FOR i = 0 TO n:
 
 What is the space complexity of this problem?
 
-- [x] O(n^2).
-- [ ] O(log n).
-- [ ] O(n).
+- [x] `O(n^2)`.
+- [ ] `O(log n)`.
+- [ ] `O(n)`.

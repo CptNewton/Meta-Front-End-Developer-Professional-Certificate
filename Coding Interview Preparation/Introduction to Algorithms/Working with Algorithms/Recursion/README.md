@@ -10,6 +10,6 @@ def fibonacci(number)
 end
 ```
 
-- [x] When the number < 2.
-- [ ] When the number > 2.
-- [ ] Fibonacci (number – 1).
+- [x] When the `number < 2`.
+- [ ] When the `number > 2`.
+- [ ] `fibonacci(number – 1)`.
