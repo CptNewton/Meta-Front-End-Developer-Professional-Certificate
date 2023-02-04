@@ -14,4 +14,4 @@
 
 - [ ] By returning `false` from the `onSubmit` function prop that the `form` tag provides.
 - [ ] By calling `preventDefault` on the event object inside any `onChange` handler from an `input` tag.
-- [x] By calling `preventDefault` on the event object inside the `onSubmit` function prop `from` the form tag.
+- [x] By calling `preventDefault` on the event object inside the `onSubmit` function prop from the `form` tag.

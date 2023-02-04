@@ -16,7 +16,7 @@
 
 - [ ] Handle one-way data flows.
 - [ ] Handle visual effects (animations and transitions) in React.
-- [ ] Handle a side effect.
+- [x] Handle a side effect.
 
 ### 4. Which answer is correct about the following code snippet?
 

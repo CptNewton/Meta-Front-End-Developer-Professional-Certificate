@@ -16,19 +16,19 @@ const socials = [
   },
   {
     icon: faGithub,
-    url: "https://www.github.com/jskenderi",
+    url: "https://www.github.com/",
   },
   {
     icon: faLinkedin,
-    url: "https://www.linkedin.com/in/sureskills/",
+    url: "https://www.linkedin.com/in/",
   },
   {
     icon: faMedium,
-    url: "https://medium.com/@sureskills",
+    url: "https://medium.com/",
   },
   {
     icon: faStackOverflow,
-    url: "https://stackoverflow.com/users/sureskills",
+    url: "https://stackoverflow.com/",
   },
 ];
 
